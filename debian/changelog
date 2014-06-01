@@ -1,3 +1,14 @@
+vyatta-op-vpn (0.15.0+osvx1+projectx1) unstable; urgency=medium
+
+  [ Ryan Riske ]
+  * Add support for DH groups 14-26
+  * Bug 220: Add support for SHA2 hashes
+
+  [ Valentin Yakovenkov ]
+  * Change vyatta-ipsec to strongswan
+
+ -- Valentin Yakovenkov <yakovenkov@gmail.com>  Sun, 01 Jun 2014 21:17:28 +0400
+
 vyatta-op-vpn (0.14.0+vyos1+helium1) unstable; urgency=low
 
   * New branch
